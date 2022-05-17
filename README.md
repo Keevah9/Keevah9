@@ -1,14 +1,9 @@
 
 
 
-![Ogunniyi Veronica](https://user-images.githubusercontent.com/86062530/168753866-23b06fb2-83ed-494b-8503-529479ed2ac7.gif)
+<img src = "https://user-images.githubusercontent.com/86062530/168753866-23b06fb2-83ed-494b-8503-529479ed2ac7.gif" width= "100%" height = "400px" />
 
 
-
-<!-- <div align="center">
-<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-d3d3d3?&style=for-the-badge&logo=appveyor&logo=aboutdotme&logoColor=black)](https://verele.netlify.app/)
-  -->
-  
   
 
  <div> 
@@ -28,13 +23,6 @@
 
   
   </div>
-  
-  
-  
-  
-  
-  
-  
   
   
   
@@ -59,7 +47,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Cockatail website</h3>
+      <h3 align="center">Cocktail website</h3>
         <br />
         <a target="_blank" href="drinks-and-slices.netlify.app/">
              <img src="https://user-images.githubusercontent.com/86062530/168852518-0683d5f6-b24c-4cc6-b194-ec226d4008a9.gif" width="100%" alt="Cocktail website"/>
@@ -77,15 +65,17 @@
     <td width="50%" valign="top">
       <h3 align="center">Media website</h3>
         <br />
-      <a target="_blank" href="https://hair-salon-website.netlify.app/">
-            <img src="https://user-images.githubusercontent.com/102561192/168475938-3917a575-928f-4d37-9fe6-322c83127550.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="https://deytunesmedia.netlify.app/">
+            <img src="https://user-images.githubusercontent.com/86062530/168859535-6d26bd29-7541-4e78-b13b-ce1d5c0baf6d.png" width="100%" height = "137px" alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
           
   
+          
+          
   <a href="https://deytunesmedia.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+   <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/> 
   </a>
       </p>
       <p><strong>HTML5, CSS3, & Javascript</strong></p>
@@ -128,23 +118,12 @@
 
 
 
-
-
-
-
-    
-    
-    
-    
-<!--     
-    ![Drink'N'Slices (2)](https://user-images.githubusercontent.com/86062530/168842389-924b25ca-adef-4677-ace0-fe45f0c4e8d2.gif) -->
-
-    
     
 
 <h1 align="center">💼 Tech Stack</h1>
-<!--      <h1 align= "center">  </h1> -->
-    <p align= "center">
+
+    
+<p align="center">
 <img src = "https://user-images.githubusercontent.com/86062530/168755446-741788cd-e9fb-41b6-8633-fbf2b3958fe1.png" />
 <img src = "https://user-images.githubusercontent.com/86062530/168755469-4fde67dd-83f2-4f71-a3aa-9527284b2d8f.png" />
 <img src = "https://user-images.githubusercontent.com/86062530/168755481-ac54ecbf-cb06-4d29-96b1-e2d97ebb4248.png" />
