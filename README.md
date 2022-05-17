@@ -59,7 +59,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">DrinkNSlices</h3>
+      <h3 align="center">Cockatail website</h3>
         <br />
         <a target="_blank" href="drinks-and-slices.netlify.app/">
              <img src="https://user-images.githubusercontent.com/86062530/168852518-0683d5f6-b24c-4cc6-b194-ec226d4008a9.gif" width="100%" alt="Cocktail website"/>
@@ -75,7 +75,7 @@
          <p><strong>HTML5, CSS3, & Javascript</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Hair Salon Website</h3>
+      <h3 align="center">Media website</h3>
         <br />
       <a target="_blank" href="https://hair-salon-website.netlify.app/">
             <img src="https://user-images.githubusercontent.com/102561192/168475938-3917a575-928f-4d37-9fe6-322c83127550.gif" width="100%"  alt="Rigley 2"/>
@@ -83,10 +83,8 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/shubhamsigdar/Sample-Website-Freelance/tree/master/Hair%20salon%20website" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://hair-salon-website.netlify.app/" target="_blank">
+  
+  <a href="https://deytunesmedia.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -98,33 +96,28 @@
     <td width="50%" valign="top">
       <h3 align="center">My Portfolio</h3>
       <br />
-        <a target="_blank" href="https://shubhamsigdar.netlify.app/">
+        <a target="_blank" href="https://verele.netlify.app/">
           <img src="https://user-images.githubusercontent.com/102561192/168474651-da256062-41c4-4de3-9e7f-d4dfd39c6dec.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
-  <a href="hhttps://github.com/shubhamsigdar/Portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://shubhamsigdar.netlify.app/" target="_blank">
+ 
+  <a href="https://verele.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Dog Breed API</h3>
+      <h3 align="center">Furniture website</h3>
         <br />
-        <a target="_blank" href="https://dogbreedapi.netlify.app/">
+        <a target="_blank" href="https://grandfurnish.netlify.app/">
           <img src="https://user-images.githubusercontent.com/102561192/168476433-963ac8bc-7537-4595-afd1-ba47777053fb.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
-          
-  <a href="https://github.com/shubhamsigdar/Get-Dog-picture-by-breed" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://dogbreedapi.netlify.app/" target="_blank">
+  
+  <a href="https://grandfurnish.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -163,16 +156,16 @@
 <img src = "https://user-images.githubusercontent.com/86062530/168755551-859ec534-7dfd-4f23-8042-e3341743bd1b.png" />
 <img src = "https://user-images.githubusercontent.com/86062530/168755567-287c44ea-37c3-4acb-b28a-6f1aba8afa64.png" />
 <img src = "https://user-images.githubusercontent.com/86062530/168755600-06c77fbd-315d-41f0-ac06-a55a134353a4.png" />
-    </div>
+   </p>
     
  ### 🌱I am currently learning
 <img src = "https://user-images.githubusercontent.com/86062530/168755359-4569b7d0-5c1d-4657-a0a5-413d3a8f02d1.png" />
 
 
 
-### 📈 GitHub Stats
 
-![image](https://user-images.githubusercontent.com/86062530/168758367-b9b04415-ca1d-48f5-95a0-675dfa75f9e7.png)
+<h1 align="center">📈 GitHub Stats</h1>
+<img src = "https://user-images.githubusercontent.com/86062530/168758367-b9b04415-ca1d-48f5-95a0-675dfa75f9e7.png" align = "center" />
 
 
 
