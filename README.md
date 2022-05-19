@@ -1,9 +1,13 @@
 
 
 
-<img src = "https://user-images.githubusercontent.com/86062530/168753866-23b06fb2-83ed-494b-8503-529479ed2ac7.gif" width= "100%" height = "400px" />
+<img src = "https://user-images.githubusercontent.com/86062530/168753866-23b06fb2-83ed-494b-8503-529479ed2ac7.gif" width= "100%" height = "400px" align = "center" />
 
 
+  
+  
+  
+  
   
 
  <div> 
@@ -87,7 +91,7 @@
       <h3 align="center">My Portfolio</h3>
       <br />
         <a target="_blank" href="https://verele.netlify.app/">
-          <img src="https://user-images.githubusercontent.com/102561192/168474651-da256062-41c4-4de3-9e7f-d4dfd39c6dec.gif" width="100%" alt="Portfolio"/>
+          <img src="https://user-images.githubusercontent.com/86062530/169362008-28cc039a-c49a-4579-a4fb-ebc80b7920f6.jpeg" width="100%" height = "133px" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -102,7 +106,7 @@
       <h3 align="center">Furniture website</h3>
         <br />
         <a target="_blank" href="https://grandfurnish.netlify.app/">
-          <img src="https://user-images.githubusercontent.com/102561192/168476433-963ac8bc-7537-4595-afd1-ba47777053fb.gif" width="100%" alt="Matching Cards"/>
+          <img src="https://user-images.githubusercontent.com/86062530/169360620-95ecac28-7c71-40eb-9877-8c621c7c05a4.png" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
@@ -118,7 +122,8 @@
 
 
 
-    
+
+
 
 <h1 align="center">💼 Tech Stack</h1>
 
@@ -149,4 +154,6 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=keevah9&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 
