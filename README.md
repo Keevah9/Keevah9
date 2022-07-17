@@ -31,7 +31,7 @@
   
   
   
- ### Hi there 👋 I'm Veronica aka Keevah and I am a full stack developer!
+ ### Hi there 👋 I'm Veronica aka Keevah and I am a frontend developer!
 
 - 🔭 I’m currently working on a media sharing platform
 - ✨ Coding Environment: dark mode
@@ -137,10 +137,7 @@
 <img src = "https://user-images.githubusercontent.com/86062530/168758429-5f05e194-4977-44f0-9759-f328021916b8.png" />
 <img src = "https://user-images.githubusercontent.com/86062530/168755418-44075468-cb65-40ae-801d-1386f4c18234.png" />
 <img src = "https://user-images.githubusercontent.com/86062530/168755523-4cfeeae6-cb23-4881-985f-ca50a54c7a40.png" />
-<img src = "https://user-images.githubusercontent.com/86062530/168755551-859ec534-7dfd-4f23-8042-e3341743bd1b.png" />
-<img src = "https://user-images.githubusercontent.com/86062530/168755567-287c44ea-37c3-4acb-b28a-6f1aba8afa64.png" />
-<img src = "https://user-images.githubusercontent.com/86062530/168755600-06c77fbd-315d-41f0-ac06-a55a134353a4.png" />
-   </p>
+  </p>
     
  ### 🌱I am currently learning
 <img src = "https://user-images.githubusercontent.com/86062530/168755359-4569b7d0-5c1d-4657-a0a5-413d3a8f02d1.png" />
